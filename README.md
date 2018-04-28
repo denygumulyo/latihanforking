@@ -1,0 +1,2 @@
+# latihanforking
+untuk membuat praktikum
